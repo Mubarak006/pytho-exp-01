@@ -15,7 +15,8 @@ print(b)
  
 ## OUTPUT:
      
- 
+ ![image](https://github.com/user-attachments/assets/78f6738a-33f8-499e-a469-8fe93fc326a2)
+
 
 ## RESULT:
 Thus, the required program is written and executed successfully.
